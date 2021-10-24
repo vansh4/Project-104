@@ -1,0 +1,10 @@
+body {background:rgb(12, 164, 224);
+color: rgb(0, 139, 7);
+} 
+.heading {width:80%;
+font-size:22px;
+}
+.objects {
+    color: darkred;
+    font-size:20px;
+}
